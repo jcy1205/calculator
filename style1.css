@@ -1,0 +1,25 @@
+.calc {
+    position: absolute;
+    background-color: #dcdcdc;
+    width: 300px;
+    height: 350px;
+}
+#disp {
+    display: block;
+    height: 52px;
+    background-color: #000000;
+    margin: 8px;
+    font-size: 45px;
+    text-align: right;
+    overflow: auto;
+    background-color: white;
+}
+.calc button {
+    height: 54px;
+    width: 71px;
+    background-color: #81d4fa;
+    margin: 0px;
+}
+#ans {
+    width: 295px;
+}
